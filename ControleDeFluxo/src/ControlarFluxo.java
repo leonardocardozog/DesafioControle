@@ -16,7 +16,7 @@ public class ControlarFluxo {
          contar(number1, number2);
         } catch (invalidosexceptions e){
 
-            System.out.println("o primeiro deve ser menor que o segundo");
+            System.out.println("o primeiro  deve ser menor que o segundo");
 
         }
         
